@@ -1,0 +1,24 @@
+C:\Users\Hikmatullo\source\repos\exchangeRate\exchangeRate\bin\Debug\exchangeRate.exe.config
+C:\Users\Hikmatullo\source\repos\exchangeRate\exchangeRate\bin\Debug\exchangeRate.exe
+C:\Users\Hikmatullo\source\repos\exchangeRate\exchangeRate\bin\Debug\exchangeRate.pdb
+C:\Users\Hikmatullo\source\repos\exchangeRate\exchangeRate\obj\Debug\exchangeRate.csprojAssemblyReference.cache
+C:\Users\Hikmatullo\source\repos\exchangeRate\exchangeRate\obj\Debug\exchangeRate.Form1.resources
+C:\Users\Hikmatullo\source\repos\exchangeRate\exchangeRate\obj\Debug\exchangeRate.Properties.Resources.resources
+C:\Users\Hikmatullo\source\repos\exchangeRate\exchangeRate\obj\Debug\exchangeRate.csproj.GenerateResource.cache
+C:\Users\Hikmatullo\source\repos\exchangeRate\exchangeRate\obj\Debug\exchangeRate.csproj.CoreCompileInputs.cache
+C:\Users\Hikmatullo\source\repos\exchangeRate\exchangeRate\obj\Debug\exchangeRate.exe
+C:\Users\Hikmatullo\source\repos\exchangeRate\exchangeRate\obj\Debug\exchangeRate.pdb
+C:\Users\Hikmatullo\source\repos\exchangeRate\exchangeRate\bin\Debug\exchange.mdf
+C:\Users\Hikmatullo\source\repos\exchangeRate\exchangeRate\bin\Debug\exchange_log.ldf
+E:\projectExchangeRate\Икромов Хикматулло ва Абдуллоев МухаммадНуъмон\Курби Асъор бо пойгохи додахо\exchangeRate\exchangeRate\bin\Debug\exchange.mdf
+E:\projectExchangeRate\Икромов Хикматулло ва Абдуллоев МухаммадНуъмон\Курби Асъор бо пойгохи додахо\exchangeRate\exchangeRate\bin\Debug\exchange_log.ldf
+E:\projectExchangeRate\Икромов Хикматулло ва Абдуллоев МухаммадНуъмон\Курби Асъор бо пойгохи додахо\exchangeRate\exchangeRate\bin\Debug\exchangeRate.exe.config
+E:\projectExchangeRate\Икромов Хикматулло ва Абдуллоев МухаммадНуъмон\Курби Асъор бо пойгохи додахо\exchangeRate\exchangeRate\bin\Debug\exchangeRate.exe
+E:\projectExchangeRate\Икромов Хикматулло ва Абдуллоев МухаммадНуъмон\Курби Асъор бо пойгохи додахо\exchangeRate\exchangeRate\bin\Debug\exchangeRate.pdb
+E:\projectExchangeRate\Икромов Хикматулло ва Абдуллоев МухаммадНуъмон\Курби Асъор бо пойгохи додахо\exchangeRate\exchangeRate\obj\Debug\exchangeRate.csprojAssemblyReference.cache
+E:\projectExchangeRate\Икромов Хикматулло ва Абдуллоев МухаммадНуъмон\Курби Асъор бо пойгохи додахо\exchangeRate\exchangeRate\obj\Debug\exchangeRate.Form1.resources
+E:\projectExchangeRate\Икромов Хикматулло ва Абдуллоев МухаммадНуъмон\Курби Асъор бо пойгохи додахо\exchangeRate\exchangeRate\obj\Debug\exchangeRate.Properties.Resources.resources
+E:\projectExchangeRate\Икромов Хикматулло ва Абдуллоев МухаммадНуъмон\Курби Асъор бо пойгохи додахо\exchangeRate\exchangeRate\obj\Debug\exchangeRate.csproj.GenerateResource.cache
+E:\projectExchangeRate\Икромов Хикматулло ва Абдуллоев МухаммадНуъмон\Курби Асъор бо пойгохи додахо\exchangeRate\exchangeRate\obj\Debug\exchangeRate.csproj.CoreCompileInputs.cache
+E:\projectExchangeRate\Икромов Хикматулло ва Абдуллоев МухаммадНуъмон\Курби Асъор бо пойгохи додахо\exchangeRate\exchangeRate\obj\Debug\exchangeRate.exe
+E:\projectExchangeRate\Икромов Хикматулло ва Абдуллоев МухаммадНуъмон\Курби Асъор бо пойгохи додахо\exchangeRate\exchangeRate\obj\Debug\exchangeRate.pdb
